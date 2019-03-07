@@ -1,0 +1,1 @@
+The QRA locator, also called QTH locator in some publications, is an obsolete geographic coordinate system used by amateur radio operators in Europe before the introduction of the Maidenhead Locator System. As a radio transmitter or receiver location system the QRA locator is considered defunct, but may be found in many older documents.
