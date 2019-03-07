@@ -50,7 +50,7 @@ async function tempFilesFromArrayObjs(arrayOfObjs){
 async function callPython(){
     try {
         await tempFilesFromArrayObjs(fileObjects)
-        exec('python3 script2.py', (err, stdout) => {
+        exec('python3 cleaner_bulk.py', (err, stdout) => {
             if (err){
                 console.error(err)
             }
